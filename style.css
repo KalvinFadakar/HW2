@@ -1,0 +1,25 @@
+
+
+
+.fixed {
+width: 300px;
+height: 150px;
+border: #4B86AF 3px solid;
+
+}
+
+.two {
+  width: 300px;
+  height: 150px;
+  border: #4B86AF 3px solid;
+  margin-left: 150px;
+}
+
+
+.three {
+  width: 300px;
+  height: 150px;
+  border: #4B86AF 3px solid;
+  margin-left: 300px;
+
+}
